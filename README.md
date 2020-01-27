@@ -11,4 +11,9 @@ How #MeToo campaign has affected the scenario of office romance and its negative
 Subject: Basics of Leadership.  
 Time: around 3:00 AM, 27 Nov 2019  
 
+3. Pregnancy Test Kits - The tiny sticks of Hope.
+History and Working Priciple of Pregnancy Test Kits - A very succussful biosensor. Also, how Pee for Pregnancy became the norm.
+Subject: Biosensors.
+Time: around 9:00 PM, 20 Jan 2020
+
 TO-DO: convert .docx to .md
