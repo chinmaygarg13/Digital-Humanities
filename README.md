@@ -12,9 +12,14 @@ Subject: Basics of Leadership.
 Time: around 3:00 AM, 27 Nov 2019  
 
 3. Pregnancy Test Kits - The tiny sticks of Hope.  
-History and Working Priciple of Pregnancy Test Kits - A very succussful biosensor. Also, how Pee for Pregnancy became the norm.  
+History and Working Principle of Pregnancy Test Kits - A very successful biosensor. Also, how Pee for Pregnancy became the norm.  
 Subject: Biosensors.  
 Time: around 9:00 PM, 20 Jan 2020  
+
+4. The Manifesto of "Caste"-Struggle.  
+Relevance of the Marxist theories in the context of the Indian Caste System.  
+Subject: Sociocultural Theories.  
+Time: 11:00 PM, 13 Feb 2020  
 
 TO-DO: convert .docx to .md  
 (Note for myself: 2 spaces for next line.)
