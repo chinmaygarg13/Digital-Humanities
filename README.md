@@ -21,5 +21,10 @@ Relevance of the Marxist theories in the context of the Indian Caste System.
 Subject: Sociocultural Theories.  
 Time: 11:00 PM, 13 Feb 2020  
 
+5. Fluorescent Biosensors - The Little Living Lasers.  
+A short essay on fluorescent biosensors - their working and applications.  
+Subject: Introductory Chemical Biology.  
+Time: 1:00 AM, 14 Feb 2020  
+
 TO-DO: convert .docx to .md  
 (Note for myself: 2 spaces for next line.)
