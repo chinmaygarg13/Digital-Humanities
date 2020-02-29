@@ -17,7 +17,7 @@ Subject: Biosensors.
 Time: around 9:00 PM, 20 Jan 2020  
 
 4. The Manifesto of "Caste"-Struggle.  
-Relevance of the Marxist theories in the context of the Indian Caste System.  
+An essay discussing the relevance of the Marxist theories in the context of the Indian Caste System. Also, if the Caste should really be paralled with the Marxist notion of Class.
 Subject: Sociocultural Theories.  
 Time: 11:00 PM, 13 Feb 2020  
 
