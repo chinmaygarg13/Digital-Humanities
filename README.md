@@ -17,7 +17,7 @@ Subject: Biosensors.
 Time: around 9:00 PM, 20 Jan 2020  
 
 4. The Manifesto of "Caste"-Struggle.  
-An essay discussing the relevance of the Marxist theories in the context of the Indian Caste System. Also, if the Caste should really be paralled with the Marxist notion of Class.
+An essay discussing the relevance of the Marxist theories in the context of the Indian Caste System. Also, if the Caste should really be paralled with the Marxist notion of Class.  
 Subject: Sociocultural Theories.  
 Time: 11:00 PM, 13 Feb 2020  
 
@@ -25,6 +25,11 @@ Time: 11:00 PM, 13 Feb 2020
 A short essay on fluorescent biosensors - their working and applications.  
 Subject: Introductory Chemical Biology.  
 Time: 1:00 AM, 14 Feb 2020  
+
+6. Grand Education Machinery - State's Own Ideological Apparatus.  
+Reflection of how every Indian Government has used education as a tool to propagate its ideology. This has been described by tracing the changes in the curricula of NCERT History textbooks during different government tenures.  
+Subject: Sociocultural Theories.  
+Time: 6:00 AM, 6 Mar 2020  
 
 TO-DO: convert .docx to .md  
 (Note for myself: 2 spaces for next line.)
