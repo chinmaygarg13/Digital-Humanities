@@ -30,6 +30,7 @@ At that moment, I realized how different it is to win as a group from winning al
 
 
 P.S. –   
-Even after all these years, when it comes to Pakistan hostel, its residents still chant: 
+- However absurd, nonsensical, and fictional these events may sound, everything written in this memoir actually did happen, and on a scale way more than what is described here.  
+- Even after all these years, when it comes to Pakistan hostel, its residents still chant: 
 
-आये हैं सीना तान के,  लौंडे पाकिस्तान के !  
+    आये हैं सीना तान के,  लौंडे पाकिस्तान के !  
