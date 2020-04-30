@@ -6,7 +6,7 @@ My thoughts on the essay titled : "Preserving Film (on Film) in a Digital Age" b
 Subject: Fundamentals of Digital Humanities: Digital Archives. (film archives)  
 Time: before 7:00 AM, 19 Nov 2019  
   
-2. A Recent Leadership Trend.  
+2. A Recent Leadership Trend. / Office Romances in the post-#MeToo Era.  
 How #MeToo campaign has affected the scenario of office romance and its negative effect on females who wish to climb the ladder of leadership.  
 Subject: Basics of Leadership.  
 Time: around 3:00 AM, 27 Nov 2019  
