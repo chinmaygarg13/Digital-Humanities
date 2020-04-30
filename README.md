@@ -31,5 +31,10 @@ Reflection of how every Indian Government has used education as a tool to propag
 Subject: Sociocultural Theories.  
 Time: 6:00 AM, 6 Mar 2020  
 
+7. Over the No-Man's-Land - Memoir of a War for Honor.  
+A memoir of a war fought between the India and Pakistan hostel while in GPRA during my BTech 1st year on the day of Diwali. It only describes the event that unfolded at night and not the whole war that was being fougth since the morning. Few parts have been shortened like there had been multiple rooftop raids, but only one is mentioned. It was a war of attrition, which ended with India's loss, when their stock ran dry, which is opposite to what is mentioned in the memoir, where war ends when the guards seize the stock of India. As one can understand, it was done to end the essay in the shortest way possible.  
+Subject: Sociocultural Theories.  
+Time: 2:00 AM. 30 Apr 2020 
+
 TO-DO: convert .docx to .md  
 (Note for myself: 2 spaces for next line.)
