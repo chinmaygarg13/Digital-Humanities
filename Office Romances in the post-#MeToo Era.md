@@ -1,5 +1,5 @@
-Office Romances in the post-#MeToo era.
-
+# Office Romances in the post-#MeToo era.
+A Recent Trend in Leadership.  
 
 The #MeToo campaign has been quite successful in bringing in light the yet ignored, tolerated, and even hushed practices of workplace misconducts which had been rampant against the women in the corporate scene. But, now, with the firing of McDonald's CEO, Steve Easterbook, it can be very evidently accentuated how even consensual relationships in the workplace are drawing greater scrutiny.
 
