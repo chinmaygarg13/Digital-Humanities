@@ -34,3 +34,5 @@ P.S. –
 - Even after all these years, when it comes to Pakistan hostel, its residents still chant: 
 
     आये हैं सीना तान के,  लौंडे पाकिस्तान के !  
+
+![alt text](https://github.com/chinmaygarg13/Essays/blob/master/diwali.png?raw=true)
