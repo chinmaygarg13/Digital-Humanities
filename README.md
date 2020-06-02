@@ -36,5 +36,10 @@ A memoir of a war fought between the India and Pakistan hostel while in GPRA dur
 Subject: Sociocultural Theories.  
 Time: 2:00 AM. 30 Apr 2020 
 
+8. As seen on TV - Ofcourse the advertisements.  
+An analysis of how the lockdown during this covid pandemic affected the advertisements being shown on the television.  
+Subject: Sociocultural Theories.  
+Time: 28 and 29 May 2020  
+
 TO-DO: convert .docx to .md  
 (Note for myself: 2 spaces for next line.)
